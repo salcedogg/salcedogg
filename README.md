@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @salcedogg
+- 👋 Hi, I’m @salcedogg Junior Pentester
 - 👀 I’m interested in start a path of challenges, always contributing to the common good.
 - 🌱 I’m currently learning about cyber security
-- 💞️ I’m looking to collaborate on hacking porjetcs 
 - 📫 How to reach me: diegosalcedo1000@hotmail.com  
 
 <!---
